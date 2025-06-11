@@ -1,7 +1,0 @@
-# Backend
-AutoSelect/bin/
-AutoSelect/obj/
-AutoSelect/*.user
-AutoSelect/*.suo
-**/appsettings*.json
-
