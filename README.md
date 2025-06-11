@@ -127,6 +127,36 @@ INSERT INTO Reports (TaskId, Description, CompletedAt) VALUES
 ```
 ---
 
+DataBase set
+
+appsettings.json
+```
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Database=AutoSelect;User=Your_user;Password=your_pass;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Debug",
+      "Microsoft.AspNetCore": "Debug",
+      "Microsoft.EntityFrameworkCore.Database.Command": "Debug"
+    }
+  }
+}
+```
+appsettings.Development.json
+```
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  }
+}
+
+```
+
 ## 📈 Planned Features
 
 * ✅ RESTful API endpoints for each model
@@ -136,7 +166,16 @@ INSERT INTO Reports (TaskId, Description, CompletedAt) VALUES
 * 🔄 Frontend integration with React app
 
 ---
+## 🛠️ Global.json
+```
+{
+  "sdk": {
+    "version": "8.0.115",
+    "rollForward": "latestFeature"
+  }
+}
 
+```
 ## 🛠️ Running the Backend
 
 ```bash
@@ -144,6 +183,7 @@ dotnet build
 dotnet ef database update
 dotnet run
 ```
+
 
 > Swagger UI will be available at `https://localhost:5623/swagger`
 
@@ -173,4 +213,6 @@ dotnet run
 │   └── Task.cs
 ├── Program.cs
 └── Properties
-    └── launchSettings.json
+    └── launchSettings.json\
+
+```
