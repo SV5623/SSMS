@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AutoSelect
+build_property.RootNamespace = AutoSelect
+build_property.ProjectDir = /mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Cars/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Cars/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Cars/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2Fycy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ2xpZW50cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Mechanics/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVjaGFuaWNzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Mechanics/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVjaGFuaWNzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Mechanics/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVjaGFuaWNzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Parts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Parts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Parts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFydHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Reports/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwb3J0cy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Reports/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwb3J0cy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Reports/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVwb3J0cy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Tasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Tasks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/Tasks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVGFza3MvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/mnt/media/Projects/Petri/AutoSelect_V2/AutoSelect/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

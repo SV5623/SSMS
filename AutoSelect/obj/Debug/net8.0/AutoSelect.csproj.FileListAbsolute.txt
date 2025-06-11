@@ -1,0 +1,822 @@
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/appsettings.Development.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/appsettings.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/global.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/AutoSelect.staticwebassets.runtime.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/AutoSelect
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/AutoSelect.deps.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/AutoSelect.runtimeconfig.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/AutoSelect.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/AutoSelect.pdb
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.BearerToken.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Endpoints.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cors.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Identity.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Metadata.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Session.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.CSharp.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Features.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Http.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Console.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.ObjectPool.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.WebEncoders.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.JSInterop.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Net.Http.Headers.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.VisualBasic.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.VisualBasic.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Win32.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Win32.Registry.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/mscorlib.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/netstandard.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.AppContext.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Buffers.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Collections.Concurrent.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Collections.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Collections.Immutable.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Collections.NonGeneric.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Collections.Specialized.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.Annotations.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.DataAnnotations.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.EventBasedAsync.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.TypeConverter.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Configuration.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Console.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Core.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Data.Common.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Data.DataSetExtensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Data.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Contracts.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Debug.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.DiagnosticSource.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.EventLog.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.FileVersionInfo.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Process.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.StackTrace.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Tools.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.TraceSource.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Tracing.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Drawing.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Drawing.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Dynamic.Runtime.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Formats.Asn1.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Formats.Tar.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Globalization.Calendars.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Globalization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Globalization.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.Brotli.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.FileSystem.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.ZipFile.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.AccessControl.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.DriveInfo.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.Watcher.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.IsolatedStorage.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.MemoryMappedFiles.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Pipelines.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Pipes.AccessControl.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.Pipes.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.IO.UnmanagedMemoryStream.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Linq.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Linq.Expressions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Linq.Parallel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Linq.Queryable.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Memory.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Http.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Http.Json.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.HttpListener.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Mail.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.NameResolution.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.NetworkInformation.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Ping.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Quic.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Requests.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Security.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.ServicePoint.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.Sockets.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebClient.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebHeaderCollection.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebProxy.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebSockets.Client.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebSockets.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Numerics.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Numerics.Vectors.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ObjectModel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.DispatchProxy.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Emit.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Emit.ILGeneration.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Emit.Lightweight.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Metadata.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.TypeExtensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Resources.Reader.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Resources.ResourceManager.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Resources.Writer.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Handles.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.InteropServices.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.InteropServices.JavaScript.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Intrinsics.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Loader.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Numerics.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Formatters.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Json.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Xml.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.AccessControl.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Claims.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Algorithms.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Cng.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Csp.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Encoding.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.OpenSsl.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Primitives.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.X509Certificates.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Xml.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Principal.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.Principal.Windows.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Security.SecureString.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ServiceModel.Web.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ServiceProcess.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encoding.CodePages.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encoding.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encoding.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encodings.Web.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Text.Json.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Text.RegularExpressions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Channels.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Overlapped.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.RateLimiting.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.Dataflow.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.Parallel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Thread.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.ThreadPool.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Timer.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Transactions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Transactions.Local.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.ValueTuple.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Web.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Web.HttpUtility.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Windows.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.Linq.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.ReaderWriter.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.Serialization.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XDocument.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XmlDocument.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XmlSerializer.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XPath.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XPath.XDocument.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/refs/WindowsBase.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Humanizer.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/MySqlConnector.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/System.CodeDom.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.csproj.AssemblyReference.cache
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.GeneratedMSBuildEditorConfig.editorconfig
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.AssemblyInfoInputs.cache
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.AssemblyInfo.cs
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.csproj.CoreCompileInputs.cache
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.MvcApplicationPartsAssemblyInfo.cs
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.MvcApplicationPartsAssemblyInfo.cache
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets.build.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets.development.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.AutoSelect.Microsoft.AspNetCore.StaticWebAssets.props
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.build.AutoSelect.props
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AutoSelect.props
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AutoSelect.props
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/staticwebassets.pack.json
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/scopedcss/bundle/AutoSelect.styles.css
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.csproj.Up2Date
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/refint/AutoSelect.dll
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.pdb
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/AutoSelect.genruntimeconfig.cache
+/home/s623/Downloads/Telegram Desktop/AutoSelectTRY2/AutoSelect_V2/AutoSelect/obj/Debug/net8.0/ref/AutoSelect.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/appsettings.Development.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/appsettings.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/global.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/AutoSelect.staticwebassets.runtime.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/AutoSelect
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/AutoSelect.deps.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/AutoSelect.runtimeconfig.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/AutoSelect.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/AutoSelect.pdb
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Antiforgery.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.BearerToken.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Cookies.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authentication.OAuth.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Authorization.Policy.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Authorization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Endpoints.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Forms.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Server.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Components.Web.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Connections.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.CookiePolicy.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cors.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.Internal.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.DataProtection.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HostFiltering.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Html.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.Common.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Connections.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Features.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Http.Results.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpLogging.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpOverrides.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.HttpsPolicy.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Identity.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Localization.Routing.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Metadata.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Cors.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Localization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.Razor.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.RazorPages.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.TagHelpers.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.OutputCaching.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RateLimiting.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Razor.Runtime.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.RequestDecompression.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCaching.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.ResponseCompression.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Rewrite.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Routing.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.HttpSys.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IIS.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.IISIntegration.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.Session.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Common.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.StaticFiles.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebSockets.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.AspNetCore.WebUtilities.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.CSharp.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Caching.Memory.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Binder.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.CommandLine.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.FileExtensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Ini.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Json.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.KeyPerFile.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.UserSecrets.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Configuration.Xml.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.DependencyInjection.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Diagnostics.HealthChecks.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Features.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Composite.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Embedded.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileProviders.Physical.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.FileSystemGlobbing.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Hosting.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Http.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Identity.Stores.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Localization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Configuration.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Console.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.Debug.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventLog.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.EventSource.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Logging.TraceSource.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.ObjectPool.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.DataAnnotations.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Options.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Extensions.WebEncoders.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.JSInterop.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Net.Http.Headers.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.VisualBasic.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.VisualBasic.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Win32.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/Microsoft.Win32.Registry.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/mscorlib.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/netstandard.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.AppContext.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Buffers.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Collections.Concurrent.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Collections.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Collections.Immutable.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Collections.NonGeneric.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Collections.Specialized.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.Annotations.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.DataAnnotations.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.EventBasedAsync.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ComponentModel.TypeConverter.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Configuration.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Console.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Core.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Data.Common.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Data.DataSetExtensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Data.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Contracts.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Debug.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.DiagnosticSource.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.EventLog.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.FileVersionInfo.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Process.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.StackTrace.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.TextWriterTraceListener.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Tools.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.TraceSource.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Diagnostics.Tracing.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Drawing.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Drawing.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Dynamic.Runtime.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Formats.Asn1.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Formats.Tar.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Globalization.Calendars.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Globalization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Globalization.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.Brotli.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.FileSystem.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Compression.ZipFile.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.AccessControl.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.DriveInfo.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.FileSystem.Watcher.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.IsolatedStorage.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.MemoryMappedFiles.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Pipelines.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Pipes.AccessControl.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.Pipes.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.IO.UnmanagedMemoryStream.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Linq.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Linq.Expressions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Linq.Parallel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Linq.Queryable.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Memory.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Http.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Http.Json.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.HttpListener.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Mail.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.NameResolution.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.NetworkInformation.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Ping.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Quic.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Requests.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Security.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.ServicePoint.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.Sockets.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebClient.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebHeaderCollection.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebProxy.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebSockets.Client.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Net.WebSockets.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Numerics.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Numerics.Vectors.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ObjectModel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.DispatchProxy.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Emit.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Emit.ILGeneration.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Emit.Lightweight.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Metadata.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Reflection.TypeExtensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Resources.Reader.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Resources.ResourceManager.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Resources.Writer.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.Unsafe.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.CompilerServices.VisualC.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Handles.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.InteropServices.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.InteropServices.JavaScript.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.InteropServices.RuntimeInformation.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Intrinsics.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Loader.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Numerics.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Formatters.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Json.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Runtime.Serialization.Xml.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.AccessControl.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Claims.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Algorithms.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Cng.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Csp.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Encoding.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.OpenSsl.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Primitives.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.X509Certificates.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Cryptography.Xml.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Principal.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.Principal.Windows.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Security.SecureString.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ServiceModel.Web.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ServiceProcess.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encoding.CodePages.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encoding.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encoding.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Text.Encodings.Web.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Text.Json.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Text.RegularExpressions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Channels.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Overlapped.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.RateLimiting.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.Dataflow.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Tasks.Parallel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Thread.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.ThreadPool.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Threading.Timer.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Transactions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Transactions.Local.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.ValueTuple.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Web.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Web.HttpUtility.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Windows.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.Linq.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.ReaderWriter.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.Serialization.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XDocument.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XmlDocument.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XmlSerializer.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XPath.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/System.Xml.XPath.XDocument.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/refs/WindowsBase.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Humanizer.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.AspNetCore.Razor.Language.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.Razor.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Mono.TextTemplating.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/MySqlConnector.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/System.CodeDom.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/System.Composition.Convention.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/System.Composition.Hosting.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/System.Composition.Runtime.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.csproj.AssemblyReference.cache
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.AssemblyInfoInputs.cache
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.AssemblyInfo.cs
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.csproj.CoreCompileInputs.cache
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.MvcApplicationPartsAssemblyInfo.cs
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.MvcApplicationPartsAssemblyInfo.cache
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets.build.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets.development.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.AutoSelect.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.build.AutoSelect.props
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.AutoSelect.props
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.AutoSelect.props
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/staticwebassets.pack.json
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/scopedcss/bundle/AutoSelect.styles.css
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.csproj.CopyComplete
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/refint/AutoSelect.dll
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.pdb
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/AutoSelect.genruntimeconfig.cache
+/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/obj/Debug/net8.0/ref/AutoSelect.dll

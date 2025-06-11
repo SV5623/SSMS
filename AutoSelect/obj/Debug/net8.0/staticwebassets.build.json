@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "o8hoWJWz2U9HXZkDdfMPCdNhchVVQ7AVz4T+8lKHLjo=",
+  "Source": "AutoSelect",
+  "BasePath": "_content/AutoSelect",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AutoSelect/wwwroot",
+      "Source": "AutoSelect",
+      "ContentRoot": "/mnt/media/Projects/Petri/Project_DYPL/SSMP_mainVersion/SSMP/AutoSelect/wwwroot/",
+      "BasePath": "_content/AutoSelect",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
